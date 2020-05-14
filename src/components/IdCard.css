@@ -1,0 +1,15 @@
+.each-card {
+    display: flex;
+    flex-flow: row;
+    margin: 3%;
+}
+
+
+.information{
+    text-align: left;
+}
+
+.ImgCard {
+    width: 20%;
+    margin-right: 3%;
+}
